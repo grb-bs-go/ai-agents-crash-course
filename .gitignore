@@ -1,4 +1,5 @@
 .env
+.env.template
 .env.local
 *.log
 *.pyc
