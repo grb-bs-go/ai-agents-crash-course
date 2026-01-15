@@ -5,6 +5,7 @@
 *.pyc
 .DS_Store
 .claude
+Python-3.13.5/
 
 # Node.js / npm
 node_modules/
